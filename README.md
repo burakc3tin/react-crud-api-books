@@ -4,7 +4,9 @@
 Bir API üzerine `GET`,`POST`,`PUT`,`DELETE` istekleri yapılabilen bir projedir. Responsive tasarım kullanılmıştır. Hook'lar kullanılmıştır.
 
 ## Canlı Ortam
-  [https://burak-react-crud-api.herokuapp.com/](Canlı Ortam) 
+
+ [Click](https://burak-react-crud-api.herokuapp.com/).
+ 
 
 ## Ekran Görüntüleri 
 
