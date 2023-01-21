@@ -5,7 +5,7 @@ Bir API üzerine `GET`,`POST`,`PUT`,`DELETE` istekleri yapılabilen bir projedir
 
 ## Canlı Ortam
 
- [Click](https://burak-react-crud-api.herokuapp.com/).
+ [Click](https://crudapibooks.netlify.app/).
  
 
 ## Ekran Görüntüleri 
