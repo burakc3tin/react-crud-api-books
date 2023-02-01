@@ -11,10 +11,10 @@ Bir API üzerine `GET`,`POST`,`PUT`,`DELETE` istekleri yapılabilen bir projedir
 ## Ekran Görüntüleri 
 
 
-<img src="https://i.hizliresim.com/dn8czzd.png" width=50% height=50%>
+<img src="https://i.hizliresim.com/dn8czzd.png" width=60% height=60%>
  
-<img src="https://i.hizliresim.com/n8lus6h.png" width=50% height=50%>
-<img src="https://i.hizliresim.com/j70tkaf.png" width=50% height=50%>
+<img src="https://i.hizliresim.com/n8lus6h.png" width=60% height=60%>
+<img src="https://i.hizliresim.com/j70tkaf.png" width=60% height=60%>
 
  
  
