@@ -13,7 +13,8 @@ Bir API üzerine `GET`,`POST`,`PUT`,`DELETE` istekleri yapılabilen bir projedir
 
 <img src="https://i.hizliresim.com/dn8czzd.png" width=50% height=50%>
  
+<img src="https://i.hizliresim.com/n8lus6h.png" width=50% height=50%>
+<img src="https://i.hizliresim.com/j70tkaf.png" width=50% height=50%>
 
-![alt text](https://i.hizliresim.com/n8lus6h.png)
-
-![alt text](https://i.hizliresim.com/j70tkaf.png)
+ 
+ 
